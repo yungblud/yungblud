@@ -1,15 +1,79 @@
-# Rockstar Principle
 
+<h1 align="center">Hi, I'm Dong-Ho Choi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://i.pinimg.com/564x/85/4b/a3/854ba35b5acafaed8630c9b7d3a43d30.jpg" alt="Kurt Cobain, the rockstar" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;iOS+Android+Web+Developer;Always%20Challenging&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<h4 align="center">I am Frontend Developer. I like to make valuable ideas come true.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yungblud&label=Profile%20views&color=0e75b6&style=plastic" alt="yungblud" /> </p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yungblud&theme=algolia" alt="yungblud"  /></p>
+
+## 📊 Github Stats (Expand to View) 
+
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yungblud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yungblud&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yungblud&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yungblud" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/yungblud"><img alt="yungblud's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yungblud&custom_title=yungblud's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
+
+## 🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:imcoldsurf@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/yungblud"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
 
-The researchers expected that the best programmer would outperform his average counterpart by a factor of two or three. But it turned out that the most skilled programmer far outperformed the worst. He was <b>20 times faster at coding, 25 times faster at debugging, and 10 times faster at program execution</b> than the programmer with the lowest marks.
+## 📰 References
 
-This study has caused ripples across the software industry since it was published, as managers grapple with how some programmers can be worth so much more than their perfectly adequate colleagues.
+<details>
+  <summary><b>🤘 Netflix's Rockstar Principle</summary>
+  <p align="center">
+    <img src="https://i.pinimg.com/564x/85/4b/a3/854ba35b5acafaed8630c9b7d3a43d30.jpg" alt="Kurt Cobain, the rockstar" />
+  </p>
+  The researchers expected that the best programmer would outperform his average counterpart by a factor of two or three. But it turned out that the most skilled programmer far outperformed the worst. He was <b>20 times faster at coding, 25 times faster at debugging, and 10 times faster at program execution</b> than the programmer with the lowest marks.
 
-Hastings goes on to say: “With a fixed amount of money for salaries and a project I needed to complete, I had a choice: hire 10 to 25 average engineers, or hire one “rock-star” and pay significantly more than what I’d pay the others, if necessary.
+  This study has caused ripples across the software industry since it was published, as managers grapple with how some programmers can be worth so much more than their perfectly adequate colleagues.
 
-The reason the rockstar engineer is so much more valuable than his counterparts isn’t unique to programming. <b>The great software engineer is incredibly creative and can see conceptual patterns that others can’t.</b>
+  Hastings goes on to say: “With a fixed amount of money for salaries and a project I needed to complete, I had a choice: hire 10 to 25 average engineers, or hire one “rock-star” and pay significantly more than what I’d pay the others, if necessary.
 
-ref: [Rockstar Principle](https://www.rwaconsultants.com/news/rock-star-software-engineers-worth-their-weight-in-gold)
+  The reason the rockstar engineer is so much more valuable than his counterparts isn’t unique to programming. <b>The great software engineer is incredibly creative and can see conceptual patterns that others can’t.</b>
+
+  ref: [Rockstar Principle](https://www.rwaconsultants.com/news/rock-star-software-engineers-worth-their-weight-in-gold)
+  </details>
+
+<hr/>
+
+* Original README.md Template: [Candida18](https://github.com/Candida18)
+
+
+
+
+
+
+
+
+
+
+
+
