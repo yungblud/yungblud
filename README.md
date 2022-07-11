@@ -1,8 +1,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yungblud&theme=algolia" alt="yungblud"  /></p>
 
-## 📊 Github Stats (Expand to View) 
-
 <br/>
 
 ## 📰 References
