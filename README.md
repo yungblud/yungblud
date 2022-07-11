@@ -1,13 +1,3 @@
-
-<h1 align="center">Hi, I'm Dong-Ho Choi. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;iOS+Android+Web+Developer;Always%20Challenging&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">I am Frontend Developer. I like to make valuable ideas come true.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yungblud&label=Profile%20views&color=0e75b6&style=plastic" alt="yungblud" /> </p>
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yungblud&theme=algolia" alt="yungblud"  /></p>
 
@@ -37,12 +27,6 @@
 </details>
 
 <br/>
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:imcoldsurf@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/yungblud"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-</p>
 
 ## 📰 References
 
