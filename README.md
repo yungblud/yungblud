@@ -1,12 +1,7 @@
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yungblud&theme=algolia" alt="yungblud"  /></p>
-
-<br/>
-
-## 📰 References
+## 📰 Netflix Rockstar Principle
 
 <details>
-  <summary><b>🤘 Netflix's Rockstar Principle</summary>
+  <summary><b>🤘 Netflix Rockstar Principle</summary>
   <p align="center">
     <img src="https://i.pinimg.com/564x/85/4b/a3/854ba35b5acafaed8630c9b7d3a43d30.jpg" alt="Kurt Cobain, the rockstar" />
   </p>
