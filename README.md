@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [react-native-video](https://github.com/react-native-video/react-native-video)
 
-- 📝 I regularly write articles on [https://blog.coldsurf.io](https://surflog.coldsurf.io)
+- 📝 I regularly write articles on [https://surflog.coldsurf.io](https://surflog.coldsurf.io)
 
 - 💬 Ask me about **React**, **React Native**
 
