@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Laftel Global App for south east asia countries**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **How to make good service**
 
 - 👯 I’m looking to collaborate on [React Native](https://github.com/facebook/react-native)
 
