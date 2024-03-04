@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm DongHo Choi</h1>
 <h3 align="center">Rock N Roll</h3>
 
-- 🔭 I’m currently working on **Laftel Global App for south east asia countries**
-
-- 🌱 I’m currently learning **How to make good service**
+- 🌱 I’m currently focusing **How to make good service**
 
 - 👯 I’m looking to collaborate on [React Native](https://github.com/facebook/react-native)
-
-- 🤝 I’m looking for help with [react-native-video](https://github.com/react-native-video/react-native-video)
 
 - 📝 I regularly write articles on [https://surflog.coldsurf.io](https://surflog.coldsurf.io)
 
 - 💬 Ask me about **React**, **React Native**
 
-- 📫 How to reach me **yungblud@kakao.com**
+- 📫 How to reach me **imcoldsurf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
