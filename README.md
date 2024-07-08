@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [React Native](https://github.com/facebook/react-native)
 
-- 📝 I regularly write articles on [https://surflog.coldsurf.io](https://surflog.coldsurf.io)
-
 - 💬 Ask me about **React**, **React Native**
 
 - 📫 How to reach me **imcoldsurf@gmail.com**
