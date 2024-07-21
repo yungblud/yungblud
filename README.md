@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**, **React Native**
 
-- 📝 I regularly write technical articles on [https://surflog.coldsurf.io](https://techlog.coldsurf.io)
+- 📝 I regularly write technical articles on [https://techlog.coldsurf.io](https://techlog.coldsurf.io)
 
 - 📫 How to reach me **imcoldsurf@gmail.com**
 
