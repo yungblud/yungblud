@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm DongHo Choi</h1>
+<h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">Rock N Roll</h3>
 
-- 🌱 I’m currently focusing **ColdSurfers** which is my own "making (or maker)" group.
+- 🌱 I’m currently focusing **COLDSURF** which is my own brand.
 
 - 💬 Ask me about **React**, **React Native**
 
