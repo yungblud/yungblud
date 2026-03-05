@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Paul</h1>
+<h1 align="center">Hi, I'm Paul</h1>
 
-## 🤘 I Follow Netflix Rockstar Principle
-  The researchers expected that the best programmer would outperform his average counterpart by a factor of two or three. But it turned out that the most skilled programmer far outperformed the worst. He was <b>20 times faster at coding, 25 times faster at debugging, and 10 times faster at program execution</b> than the programmer with the lowest marks.
+Frontend engineer focused on building real products with clear, intuitive code.
 
-  This study has caused ripples across the software industry since it was published, as managers grapple with how some programmers can be worth so much more than their perfectly adequate colleagues.
+Korean version: [README.ko.md](./README.ko.md)
 
-  Hastings goes on to say: “With a fixed amount of money for salaries and a project I needed to complete, I had a choice: hire 10 to 25 average engineers, or hire one “rock-star” and pay significantly more than what I’d pay the others, if necessary.
+## Philosophy
+- Code to Product: code is a bridge to the real-world experience.
+- Keep it compact: remove unnecessary business logic and complexity.
+- Prefer modern architecture over legacy patterns.
+- Strong instinct for practical design and implementation tradeoffs.
 
-  The reason the rockstar engineer is so much more valuable than his counterparts isn’t unique to programming. <b>The great software engineer is incredibly creative and can see conceptual patterns that others can’t.</b>
+## Rockstar Principle
+I follow the Netflix Rockstar Principle mindset:
+- top engineers can deliver outsized impact across coding, debugging, and runtime performance
+- creativity and pattern recognition are core multipliers
 
-  ref: [Rockstar Principle](https://www.rwaconsultants.com/news/rock-star-software-engineers-worth-their-weight-in-gold)
+Reference: [Rockstar Principle](https://www.rwaconsultants.com/news/rock-star-software-engineers-worth-their-weight-in-gold)
 
-<hr/>
+## Career Snapshot
+- Frontend engineer since November 2018
+- Product domains: Crypto Exchange, PropTech, OTT
+- Core stack: React, React Native, TypeScript, Node.js ecosystem
+- React Native: experienced with Native Modules and New Architecture module implementation
+
+## COLDSURF
+Founder of [COLDSURF](https://colsurf.io), building a better ticket ecosystem.
+
+Related work:
+- [ocean-road](https://github.com/coldsurfers/ocean-road) (Design System)
+- [surfers-common](https://github.com/coldsurfers/surfers-common) (Shared Utils)
+- [official-blog](https://github.com/coldsurfers/official-blog) (Blog)
