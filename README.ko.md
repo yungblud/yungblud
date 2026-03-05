@@ -24,7 +24,7 @@ Netflix Rockstar Principle 관점을 따릅니다.
 - React Native: Native Module 및 New Architecture 모듈 구현 경험
 
 ## COLDSURF
-[COLDSURF](https://colsurf.io) 창립자로, 더 나은 티켓 생태계를 만들고 있습니다.
+[COLDSURF](https://coldsurf.io) 창립자로, 더 나은 티켓 생태계를 만들고 있습니다.
 
 관련 작업:
 - [ocean-road](https://github.com/coldsurfers/ocean-road) (디자인 시스템)

@@ -24,7 +24,7 @@ Reference: [Rockstar Principle](https://www.rwaconsultants.com/news/rock-star-so
 - React Native: experienced with Native Modules and New Architecture module implementation
 
 ## COLDSURF
-Founder of [COLDSURF](https://colsurf.io), building a better ticket ecosystem.
+Founder of [COLDSURF](https://coldsurf.io), building a better ticket ecosystem.
 
 Related work:
 - [ocean-road](https://github.com/coldsurfers/ocean-road) (Design System)
